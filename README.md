@@ -14,7 +14,7 @@ Anda adalah seorang manager klub sepakbola ternama yang ingin merekrut pemain se
 
 Tersedia __1 buah dataset (.csv)__ yang memuat data lengkap pemain sepakbola profesional kelas dunia. Unduh dataset via Kaggle: [klik di sini](https://www.kaggle.com/karangadiya/fifa19). __Dilarang keras untuk menyunting/mengubah konten dataset!__ 
 
-Dengan memanfaatkan dataset tersebut, buatlah sebuah file __python (.py)__ atau kernel __Jupyter notebook (.ipynb)__ yang berisi model Machine Learning yang dapat mengklasifikasikan pemain yang Anda targetkan untuk direkrut. Gunakan minimal __3 buah algoritma model machine learning__ _(pilihan model bebas)_, lalu bandingkan & tentukan model mana yang memiliki akurasi terbaik. Kemudian gunakan model tersebut untuk mengklasifikasikan data __pemain di bawah ini__ apakah tergolong pemain yang patut kita rekrut atau tidak:
+Dengan memanfaatkan dataset tersebut, buatlah sebuah file __python (.py)__ atau kernel __Jupyter notebook (.ipynb)__ yang berisi model Machine Learning yang dapat mengklasifikasikan pemain yang Anda targetkan untuk direkrut. Gunakan minimal __3 buah algoritma model machine learning__ _(pilihan model bebas)_, lalu bandingkan & tentukan model mana yang memiliki akurasi terbaik. Kemudian gunakan model tersebut untuk mengklasifikasikan data __pemain di bawah ini__ apakah tergolong pemain yang patut Anda rekrut atau tidak:
 
 Name | Club | Nationality | Age | Overall | Potential
 --|--|--|--|--|--
